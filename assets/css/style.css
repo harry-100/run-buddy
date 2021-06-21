@@ -76,6 +76,11 @@ section {
     height: 600px;
     position: relative;
 }
+/* these two colors will override the ones above in .hero */
+/* .hero-secondary {
+    background-color: black;
+    color: red;
+} */
 /* Hero Style End */
 
 .hero-form {
